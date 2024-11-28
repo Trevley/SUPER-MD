@@ -1,7 +1,7 @@
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 <div align="center" class= "main"> 
   <img src="https://telegra.ph/file/d68ec9393c98e57b6ec6f.jpg" width="300" height="300"/>
-  <h1>SUPER MD</h1>
+  <h1>MATRIX-MD</h1>
 
 
 
