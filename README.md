@@ -6,9 +6,9 @@
 
 
 
-<p align="center"><img src="https://profile-counter.glitch.me/{SUPER-MD}/count.svg" alt="V-E-N-O-X :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{MATRIX-MD}/count.svg" alt="V-E-N-O-X :: Visitor's Count" /></p>
 
-## BOT MADE BY SIR TREVLEY
+## BOT MADE BY SIR LIL TREV
 
 
 [`Scan Session`](https://trevley-45b9dd2acee8.herokuapp.com/)
