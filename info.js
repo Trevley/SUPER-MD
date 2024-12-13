@@ -11,15 +11,15 @@
 //                          ██║ ██║  ██║██║███████║    ██║ ╚═╝ ██║ ██████╔╝                             //
 //                          ╚═╝ ╚═╝  ╚═╝╚═╝╚══════╝    ╚═╝     ╚═╝ ╚═════╝                              //
 //                                                                                                      //
-//                                          BY: VENOX-SENPAI                                            //
+//                                          BY: TREVOR LEYIAN                                           //
 //                                                                                                      //
 //                                                                                                      //
 //══════════════════════════════════════════════════════════════════════════════════════════════════════//
 
 /**
 
-* @project_name : IRIS-MD
-* @Developer : Venox-Senpai
+* @project_name : MATRIX-XMD
+* @Developer : MATRIX LORDE
 * @Version : v.1.2.7
 * @license : APACHE-2.0
 
@@ -48,10 +48,10 @@ if (fs.existsSync('config.env')) {
 module.exports = {
     SESSION_ID: process.env.SESSION_ID || '',
     HANDLERS: process.env.HANDLERS || '.',
-    IG: process.env.IG || 'https://instagram.com/sla.sher_/',
-    INFO: process.env.INFO || 'ɪʀɪꜱ-ᴍᴅ;VᴇɴᴏxSᴇʀ;https://imgur.com/D60nScQ.jpg',
+    IG: process.env.IG || 'https://instagram.com/lil trev/',
+    INFO: process.env.INFO || 'ɪMATRIX-XMD;VᴇɴᴏxSᴇʀ;https://imgur.com/D60nScQ.jpg',
     URL: process.env.URL || 'https://whatsapp.com/channel/0029VaHt1710AgWB1B0Lkg0Q',
-    SUDO: process.env.SUDO || '8801975492880',
+    SUDO: process.env.SUDO || '',
     AUTO_STATUS_VIEW: process.env.AUTO_STATUS_VIEW || 'true',
     ALWAYS_ONLINE: process.env.ALWAYS_ONLINE || 'true',
     MODE: process.env.MODE || 'public',
