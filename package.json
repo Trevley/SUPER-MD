@@ -1,21 +1,21 @@
 {
-  "name": "IRIS-MD",
+  "name": "MATRIX-XMD",
   "version": "1.2.8.01",
   "description": "Lightweight whatsapp bot",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "pm2 start . --attach --name IRIS-MD"
+    "start": "pm2 start . --attach --name MATRIX-XMD"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/V-E-N-O-X/IRIS-MD.git"
+    "url": "git+https://github.com/Trevley/MATRIX-XMD.git"
   },
   "keywords": [
     "bot",
     "whatsapp"
   ],
-  "author": "Venox-Senpai",
+  "author": "MATRIX LORDE",
   "license": "Apache-2.0",
   "dependencies": {
     "@types/node": "^18.0.6",
