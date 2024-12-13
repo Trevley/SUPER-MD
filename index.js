@@ -11,15 +11,15 @@
 //                          ██║ ██║  ██║██║███████║    ██║ ╚═╝ ██║ ██████╔╝                             //
 //                          ╚═╝ ╚═╝  ╚═╝╚═╝╚══════╝    ╚═╝     ╚═╝ ╚═════╝                              //
 //                                                                                                      //
-//                                          BY: VENOX-SENPAI                                            //
+//                                          BY: TREVOR LEYIAN                                            //
 //                                                                                                      //
 //                                                                                                      //
 //══════════════════════════════════════════════════════════════════════════════════════════════════════//
 
 /**
  
-* @project_name : IRIS-MD
-* @Developer : Venox-Senpai
+* @project_name : MATRIX-XMD
+* @Developer : Trevor Leyian
 * @Version : v.1.2.7
 * @license : APACHE-2.0
 
